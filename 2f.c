@@ -12,6 +12,7 @@ int main(){
 
     printf("the frequency of array elemnts are:\n");
 
+    
     int key[100]={0};
     for(i=0;i<n;i++){
         if(key[i]==1)
