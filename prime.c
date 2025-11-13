@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 int main()
+
 {
     int i,n;
     int count =0;
@@ -12,6 +13,7 @@ int main()
             count++;
         }
     }
+
     if (count==2){
         printf("%d is a prime number",n);
     }
